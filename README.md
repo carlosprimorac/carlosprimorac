@@ -1,22 +1,13 @@
-### Hi there 👋
-
 <!--
 **carlosprimorac/carlosprimorac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Carlos R. Primorac</h1>
-<h3 align="center">A passionate backend developer with PHP from Argentina</h3>
+<h1 align="left">Hola , Mi nombre es Carlos R. Primorac 👋</h1>
+<h3 align="left">Backend developer with PHP from Argentina</h3>
+
+<p>Desarrollador web con experiencia en desarrollo backend (PHP y Symfony) y frontend (HTML, CSS, Javascript y Bootstrap), con conocimientos en bases de datos y control de versiones (GIT / GITLab). Buscando un puesto de trabajo en una empresa que me permita seguir aprendiendo y creciendo profesionalmente, aplicando mis habilidades y conocimientos para el desarrollo de soluciones innovadoras que contribuyan al avance de la tecnología.</p>
+
+
 
 - 🔭 I’m currently working on **Teacher at Universidad Nacional del Nordeste**
 
