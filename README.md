@@ -28,6 +28,7 @@
 
 ### 🥇 Licencias y certificaciones
 - [Centro de e-Learning UTN FRBA] [Scrum Grand Master](https://sigead.utnba.centrodeelearning.com/alumnos/validar_certificado) - ID de la credencial: CER-JF2GR3VK-823818ID
+- [Udemy] [ GIT+GitHub: Todo un sistema de control de versiones de cero](https://www.udemy.com/certificate/UC-472f2e55-7731-4402-aaca-46fcf278c2db/)
 - [Devtalles] [Principios SOLID y Clean Code](https://cursos.devtalles.com/certificates/r7nv6qrcyp)
 - [in Learning] [Docker esencial](https://www.linkedin.com/learning/certificates/4196df6c4b3695701def79ccc281f73b70ece874937c4cf78d0079ca8abc0ede)
 - [in Learning] [Fundamentos de Kanban para desarrollo de software](https://www.linkedin.com/learning/certificates/7cce5aa138ffe53934e59fe7b5830ed7e712f4582a2efca62b5a75dc2e5ce95a)
