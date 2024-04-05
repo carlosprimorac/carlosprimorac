@@ -9,7 +9,7 @@
 
 
 
-- 🔭 I’m currently working on **Teacher at Universidad Nacional del Nordeste**
+- 🔭 I’m currently working as a **Symfony Dev** at **Ministerio de Educación de la Provincia del Chaco** and as a **Teacher** at **Universidad Nacional del Nordeste**
 
 - 🌱 I’m currently learning **Modern Javascript (ES6), Vue.js, Laravel**
 
